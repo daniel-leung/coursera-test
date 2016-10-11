@@ -38,6 +38,8 @@ p {
   float: right;
   padding-top: 2px;
   font-size: 20px;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 #p2 {
@@ -49,6 +51,8 @@ p {
   float: right;
   padding-top: 2px;
   font-size: 20px;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 #p3 {
@@ -60,6 +64,8 @@ p {
   float: right;
   padding-top: 2px;
   font-size: 20px;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 /* Simple Responsive Framework. */
